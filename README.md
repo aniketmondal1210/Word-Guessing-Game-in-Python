@@ -33,16 +33,27 @@ A beginner-friendly word guessing game built using Python. This game demonstrate
 
 
 📋 Example Output
+
   What is your name? Gautam
+ 
   Good Luck! Gautam
+  
   Guess the characters
+  
   _ _ _ _ _ 
+  
   Guess a character: g
+  
   g _ _ _ _
+  
   Guess a character: e
+  
   g e e _ _
+  
   ...
+  
   You Win
+  
   The word is: geeks
 
   📂 File Structure
