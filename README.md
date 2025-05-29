@@ -59,7 +59,9 @@ A beginner-friendly word guessing game built using Python. This game demonstrate
   📂 File Structure
   
   word-guessing-game/
+  
   ├── word_game.py
+  
   └── README.md
 
   🛠 Requirements
@@ -67,6 +69,7 @@ A beginner-friendly word guessing game built using Python. This game demonstrate
     Python 3.x
 
   No external libraries are required.
+  
   📄 License
   
   This project is licensed under the MIT License.
